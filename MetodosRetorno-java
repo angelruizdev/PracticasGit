@@ -1,3 +1,4 @@
-public void suma(){
+public String suma(String nombreUsuario){
 
+ return "Ángel";
 }
