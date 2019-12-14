@@ -1,4 +1,8 @@
-﻿Print("Hola mundo")
+﻿//someone messages used in android studio and web
+Print("Hola mundo")
 System.out.print("Hola angel");
+setText("hola mundo!");
 Toast.make("Como estas");
-echo "Qué haces";
+Log.i("return", success);
+echo = "perfect angel";
+
