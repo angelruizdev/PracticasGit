@@ -1,4 +1,0 @@
-public String suma(String nombreUsuario){
-
- return nombreUsuario;
-}
