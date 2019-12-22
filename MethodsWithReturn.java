@@ -26,3 +26,22 @@ numbers * 100;
 return newHistory;
 }
 
+private void response(Boolean result){
+
+if(result == 200){
+   outSuccess(true)
+else{
+   outSuccess(false)
+}
+
+
+private Boolean outSuccess(Boolean option){
+
+if(option){
+  print("success: 200")
+else{
+  print("error: 403")
+}
+return option
+}
+
